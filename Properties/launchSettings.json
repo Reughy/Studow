@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Studow": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
